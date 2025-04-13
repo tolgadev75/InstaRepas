@@ -10,10 +10,12 @@ InstaRepas est une application web qui génère des menus personnalisés en fonc
 Les utilisateurs peuvent également s'enregistrer et ajouter leurs propres recettes au site web.
 
 # Technologies utilisées
-
+- Laravel
+- TailwindCSS
 - HTML
 - CSS
 - JavaScript
+- -MySQL
 
 # Contributeurs
 
