@@ -15,13 +15,13 @@ Les utilisateurs peuvent également s'enregistrer et ajouter leurs propres recet
 - HTML
 - CSS
 - JavaScript
-- -MySQL
+- MySQL
 
 # Contributeurs
 
 [Marcelo](lien)<br/>
 [Antonin](https://github.com/antodvm)<br/>
-[Tolga](https://github.com/tonytolgadev)<br/>
+[Tolga](https://github.com/tolgadev75)<br/>
 
 # InstaRepas
 
@@ -39,4 +39,4 @@ Users can also register and add their own recipes to the website.
 
 [Marcelo](lien)<br/>
 [Antonin](https://github.com/antodvm)<br/>
-[Tolga](https://github.com/tonytolgadev)<br/>
+[Tolga](https://github.com/tolgadev75)<br/>
